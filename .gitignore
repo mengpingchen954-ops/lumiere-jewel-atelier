@@ -1,0 +1,13 @@
+node_modules/
+dist/
+artifacts/
+.netlify/
+netlify.toml
+docs/deployment.json
+docs/publication-blocker.json
+docs/steam-official.json
+tests/public-workaround.mjs
+.env
+.env.*
+*.log
+test-results/
