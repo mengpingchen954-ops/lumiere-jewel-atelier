@@ -4,7 +4,7 @@
 
 ## 线上版本与发布状态
 
-发布目标为 GitHub Pages，网页 https://mengpingchen954-ops.github.io/lumiere-jewel-atelier/ ，源码 https://github.com/mengpingchen954-ops/lumiere-jewel-atelier 。以 GitHub Actions 成功结果与匿名浏览器验证为准。后方镜头的墙面遮挡已修复，转到背面时背景会自动剖开。旧 Netlify 站点保留，不再作为发布目标。
+发布目标为 GitHub Pages，网页 https://mengpingchen954-ops.github.io/lumiere-jewel-atelier/ ，源码 https://github.com/mengpingchen954-ops/lumiere-jewel-atelier 。已通过 GitHub Actions 构建发布与 74 项匿名浏览器交互检查，详见 docs/GITHUB-VALIDATION.md。后方镜头的墙面遮挡已修复，转到背面时背景会自动剖开。旧 Netlify 站点保留，不再作为发布目标。旧存档迁移：在旧页面帮助里下载备份，再在新页面帮助里导入。
 
 ## 启动
 
